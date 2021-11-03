@@ -1,0 +1,91 @@
+
+Datatypes
+
+    byte -128 -> 127
+        default value = 0
+    Ex:
+    byte number = 10;
+
+    short -32,768 -> 32,767
+    default value = 0
+    Ex:
+    short number 450;
+
+    int - 2,147,483,648 -> 2,147,483,647
+    default value = 0
+    Ex:
+    int number = 9999;
+
+    long -9,223,372,036,854,775,808 -> 9,223,372,036,854,775,807
+    default value = 0
+    Ex:
+    long number 10L;
+
+    float 32-bit IEEE 754
+    Default value is 0.0f
+    Ex:
+    float number 924.2f;
+
+    double 64-bit IEEE 754
+    default value 0.0d;
+    Ex:
+    double number 2.2d;
+
+    boolean true, false;
+    default value false
+    Ex:
+    isEnabled = true;
+
+    char
+    Minimum value is '\u0000' (or 0)
+    Maximum value is '\uffff' (or 65,535 inclusive)
+    Ex:
+    char letter = 'A';
+
+    String
+    Ex:
+    String name = "Rukie";
+
+
+ Access Modifiers:
+    public
+    private
+    protected
+    default
+
+    static
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
