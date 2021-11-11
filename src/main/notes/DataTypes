@@ -55,6 +55,35 @@ Datatypes
 
     static
 
+11/10:
+
+  Scanner class
+
+  Allows user to enter input value
+
+  Integer value:
+  scanner.nextInt();
+
+  String value:
+  scanner.nextLine();
+
+  Operators in java
+  prefix
+    ++var;
+  postfix
+    var++;
+  comparison
+    <, >, <=, >=
+  multiplicative
+    * / %
+Homework:
+    A student will not be allowed to sit in exam if his/her attendance is less than 75%.
+    Take following input from user
+    Number of classes held
+    Number of classes attended.
+    And print
+    percentage of class attended
+    Is student is allowed to sit in exam or not.
 
 
 

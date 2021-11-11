@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class StringManipulation {
 
     static byte number;
@@ -31,5 +33,7 @@ public class StringManipulation {
     public static void getAge() {
         System.out.println("Age: " + age);
     }
+    //Take two int values from user and print greatest among them.
+
 
 }
